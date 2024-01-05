@@ -6,7 +6,7 @@
         "disabled": false,
         "username": "Eingabe",
         "signalingUrls": [
-          "wss://localhost:5555"
+          "wss://localhost:2424"
         ]
       }
   }
